@@ -732,6 +732,7 @@ Aaron
 - Son Thanh Tran
 - Adrien
 - Luis Salas
+- Ricky Huang
 - [notdncly]() -[Arjun]
   [Hung Cai](https://github.com/Pro-vo-ker)
 - [Tally](https://github.com/tryintofindtally)
